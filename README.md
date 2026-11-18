@@ -1,2 +1,3 @@
-# benjamin41997-ctrl.github.io
-Compatibility redirects for existing Spray-Net app links and printed QR codes.
+# Existing Spray-Net app links
+
+These pages forward historical business links to https://spray-net-charlotte.github.io, preserving paths, query strings, and fragments. Application source lives in the spray-net-charlotte organization.
